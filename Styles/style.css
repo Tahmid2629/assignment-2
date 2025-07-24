@@ -1,0 +1,21 @@
+/* Google Fonts */
+.noto-serif-normal {
+  font-family: "Noto Serif", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+.inter-normal {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+/* Font Colours */
+.nav-1{
+  color: rgba(37, 36, 50, 1);
+}
+.nav-2{
+  color: rgba(137, 135, 161, 1);
+}
